@@ -1,4 +1,4 @@
-package top.guyimaple.quick.components.service.db.generator;
+package top.guyimaple.quick.components.framework.db.generator;
 
 import org.hibernate.annotations.IdGeneratorType;
 

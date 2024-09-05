@@ -1,4 +1,4 @@
-package top.guyimaple.quick.components.service.db.generator;
+package top.guyimaple.quick.components.framework.db.generator;
 
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
 import org.hibernate.id.IdentifierGenerator;

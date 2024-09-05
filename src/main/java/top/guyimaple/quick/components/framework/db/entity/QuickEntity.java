@@ -1,11 +1,11 @@
-package top.guyimaple.quick.components.service.db.entity;
+package top.guyimaple.quick.components.framework.db.entity;
 
 import jakarta.persistence.Id;
 import jakarta.persistence.MappedSuperclass;
 import lombok.Data;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
-import top.guyimaple.quick.components.service.db.generator.SnowflakeGenerator;
+import top.guyimaple.quick.components.framework.db.generator.SnowflakeGenerator;
 
 /**
  * @author guyi
